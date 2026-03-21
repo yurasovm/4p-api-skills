@@ -1,0 +1,20 @@
+{
+  "name": "@4partners/api-skills",
+  "version": "0.0.1",
+  "description": "AI Skills library for the 4Partners Site API — article management, rubric/category management, brand management, products, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "4partners",
+    "api",
+    "skills",
+    "cursor",
+    "claude",
+    "ai-assistant",
+    "e-commerce"
+  ],
+  "author": "4Partners",
+  "license": "ISC"
+}

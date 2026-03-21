@@ -1,0 +1,5 @@
+interface:
+  display_name: "Article Browser"
+  short_description: "Browse article variations and list articles by variation"
+  icon: "book-open"
+  color: "#2563EB"
