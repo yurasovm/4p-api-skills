@@ -9,8 +9,8 @@ Use this skill for read-only article discovery workflows in the ecommerce CMS AP
 
 Before making requests, read:
 
-- [../references/authentication.md](../references/authentication.md) — how to obtain and use the `X-Auth-Token` header
-- [../references/base-urls.md](../references/base-urls.md) — API base URL and rate limits
+- [references/authentication.md](references/authentication.md) — how to obtain and use the `X-Auth-Token` header
+- [references/base-urls.md](references/base-urls.md) — API base URL and rate limits
 - [references/article-listing.md](references/article-listing.md) — endpoint details for this skill
 
 ## Supported tasks
