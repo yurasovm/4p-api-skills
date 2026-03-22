@@ -5,6 +5,13 @@ author: 4Partners
 homepage: https://api.4partners.io/v1/doc/index.json
 
 skills:
-  - name: article-browser
-    path: skills/article-browser/SKILL.md
-    description: Browse available site variations and retrieve paginated article lists (read-only)
+  - article-browser
+  - references
+
+keywords:
+  - cursor
+  - claude-code
+  - 4partners
+  - ecommerce
+  - cms
+  - articles
