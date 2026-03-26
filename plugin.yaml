@@ -6,7 +6,7 @@ homepage: https://api.4partners.io/v1/doc/index.json
 
 skills:
   - article-browser
-  - references
+  - bug-task-creator
 
 keywords:
   - cursor

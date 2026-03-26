@@ -10,9 +10,8 @@ The skills in this repository allow AI agents to interact with the 4Partners API
 
 Read the relevant `SKILL.md` file from the `skills/` directory to understand how to interact with each API module. Start with:
 
-- `skills/references/authentication.md` — how to authenticate
-- `skills/references/base-urls.md` — API base URLs and rate limits
 - `skills/article-browser/SKILL.md` — browse site variations and list articles
+- `skills/bug-task-creator/SKILL.md` - 
 
 ## Authentication
 
